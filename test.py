@@ -69,5 +69,5 @@ if __name__ == '__main__':
     #     print k._process_cell(cell)
     print "kkk"
     print cells
-    print k._space_splitter.split("     aaa bbb c ")  # 删除两个以上的空格
+    print k._space_splitter.split("     aaa bbb c ")  # delete ' ' N -> {2+} line:25
 
